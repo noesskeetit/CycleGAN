@@ -1,2 +1,0 @@
-# CycleGAN
-MAI course work
